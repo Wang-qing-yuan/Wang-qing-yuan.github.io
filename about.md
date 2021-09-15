@@ -4,12 +4,9 @@ title: about page
 description: This is just about page
 ---
 [返回](./)
-## Welcome to about page
-<!-- <header role="banner">
- <img src="https://wwwwang.oss-cn-beijing.aliyuncs.com/three/202109121356459.jpg" width="100px">
-</header> -->
+
 <center>
-     <h1>## Welcome to wqy's blog</h1>
+     <h1>Welcome to wqy's blog</h1>
      <div>
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">

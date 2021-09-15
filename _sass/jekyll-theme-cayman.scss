@@ -113,6 +113,7 @@ a {
   background-image: url('https://wwwwang.oss-cn-beijing.aliyuncs.com/three/202109151925278.jpg');
   background-size: cover;
   // border-bottom: 70px;
+  margin-bottom: 80px;
   @include large {
     padding: 5rem 6rem;
   }
@@ -164,8 +165,8 @@ a {
 .main-content {
   word-wrap: break-word;
   background-image: linear-gradient(120deg,#d9a7c7,#FFFCDC);
-  border-radius: 50px;
   margin-top: 80px;
+  padding-top: 60px;
   
 
   :first-child {
